@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python developer from India</h3>
 
 
-- 🌱 I’m currently learning **Python,CLI Commands,GIT,html-css-JS,SQL**
+- 🌱 I’m currently learning **Python, CLI Commands, GIT,html-css-JS,SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DwipenduKundu](https://github.com/DwipenduKundu)
 
@@ -20,3 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwipendukundu&show_icons=true&locale=en&layout=compact" alt="dwipendukundu" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwipendukundu&show_icons=true&locale=en&layout=compact" alt="dwipendukundu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwipendukundu&show_icons=true&locale=en" alt="dwipendukundu" /></p>
