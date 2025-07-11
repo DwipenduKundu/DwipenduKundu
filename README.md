@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dwipendu Kundu</h1>
 <h3 align="center">A passionate python developer from India</h3>
+<p align="center">
+  <img src="https://your-image-link/banner.png" alt="Dwipendu Kundu Banner"/>
+</p>
+
 
 
 - 🌱 I’m currently learning **Python, CLI Commands, GIT,html-css-JS,SQL**
