@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dwipendu Kundu</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <p align="center">
-  <img src="https://your-image-link/banner.png" alt="Dwipendu Kundu Banner"/>
+  <img src="https://github.com/user-attachments/assets/8db0f5ce-2414-4619-ae8a-a133e5f8c48d" />
 </p>
 
 
